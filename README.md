@@ -21,6 +21,7 @@ The models achieved high performance in detecting online threat messages.
 - Python
 - Scikit-learn
 - Google Colab
+- Rapid miner
 
 ## Author
 Chatchai Phoum And Thanita Khammoonin
