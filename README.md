@@ -23,5 +23,4 @@ The models achieved high performance in detecting online threat messages.
 - Google Colab
 
 ## Author
-Chatchai Phoum
-Thanita Khammoonin
+Chatchai Phoum And Thanita Khammoonin
